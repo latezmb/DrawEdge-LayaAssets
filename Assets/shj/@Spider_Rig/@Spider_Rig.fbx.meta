@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 046f779ab1dbbb84597784a4334d3c0c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 11
+    100002: //RootNode
+    100004: '@Spider_Rig'
+    100006: AllEnemy
+    100008: BackLeg1_L
+    100010: BackLeg1_R
+    100012: BackLeg2_L
+    100014: BackLeg2_R
+    100016: BackLeg3_L
+    100018: BackLeg3_R
+    100020: BackLeg4_L
+    100022: BackLeg4_R
+    100024: BackLeg5_L
+    100026: BackLeg5_R
+    100028: Body
+    100030: Chest_M
+    100032: Enemy12 (4)
+    100034: FrontLeg1_L
+    100036: FrontLeg1_R
+    100038: FrontLeg2_L
+    100040: FrontLeg2_R
+    100042: FrontLeg3_L
+    100044: FrontLeg3_R
+    100046: FrontLeg4_L
+    100048: FrontLeg4_R
+    100050: FrontLeg5_L
+    100052: FrontLeg5_R
+    100054: joint1_M
+    100056: joint2_M
+    100058: MiddleLeg1_L
+    100060: MiddleLeg1_R
+    100062: MiddleLeg21_L
+    100064: MiddleLeg21_R
+    100066: MiddleLeg2_L
+    100068: MiddleLeg2_R
+    100070: MiddleLeg31_L
+    100072: MiddleLeg31_R
+    100074: MiddleLeg3_L
+    100076: MiddleLeg3_R
+    100078: MiddleLeg41_L
+    100080: MiddleLeg41_R
+    100082: MiddleLeg4_L
+    100084: MiddleLeg4_R
+    100086: MiddleLeg51_L
+    100088: MiddleLeg51_R
+    100090: MiddleLeg5_L
+    100092: MiddleLeg5_R
+    100094: MiddleLeg6_L
+    100096: MiddleLeg6_R
+    100098: Root_M
+    100100: Spider
+    100102: Spine1_M
+    100104: Spine2_M
+    400000: 11
+    400002: //RootNode
+    400004: '@Spider_Rig'
+    400006: AllEnemy
+    400008: BackLeg1_L
+    400010: BackLeg1_R
+    400012: BackLeg2_L
+    400014: BackLeg2_R
+    400016: BackLeg3_L
+    400018: BackLeg3_R
+    400020: BackLeg4_L
+    400022: BackLeg4_R
+    400024: BackLeg5_L
+    400026: BackLeg5_R
+    400028: Body
+    400030: Chest_M
+    400032: Enemy12 (4)
+    400034: FrontLeg1_L
+    400036: FrontLeg1_R
+    400038: FrontLeg2_L
+    400040: FrontLeg2_R
+    400042: FrontLeg3_L
+    400044: FrontLeg3_R
+    400046: FrontLeg4_L
+    400048: FrontLeg4_R
+    400050: FrontLeg5_L
+    400052: FrontLeg5_R
+    400054: joint1_M
+    400056: joint2_M
+    400058: MiddleLeg1_L
+    400060: MiddleLeg1_R
+    400062: MiddleLeg21_L
+    400064: MiddleLeg21_R
+    400066: MiddleLeg2_L
+    400068: MiddleLeg2_R
+    400070: MiddleLeg31_L
+    400072: MiddleLeg31_R
+    400074: MiddleLeg3_L
+    400076: MiddleLeg3_R
+    400078: MiddleLeg41_L
+    400080: MiddleLeg41_R
+    400082: MiddleLeg4_L
+    400084: MiddleLeg4_R
+    400086: MiddleLeg51_L
+    400088: MiddleLeg51_R
+    400090: MiddleLeg5_L
+    400092: MiddleLeg5_R
+    400094: MiddleLeg6_L
+    400096: MiddleLeg6_R
+    400098: Root_M
+    400100: Spider
+    400102: Spine1_M
+    400104: Spine2_M
+    2100000: BC_Enemy32
+    4300000: Spider
+    7400000: Idle
+    7400002: Attack
+    9500000: //RootNode
+    13700000: Spider
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

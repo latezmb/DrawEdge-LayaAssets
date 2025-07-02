@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: TX_5
-  m_Shader: {fileID: 4800000, guid: 04893c117b17bf44baafd2cee5402aad, type: 3}
+  m_Shader: {fileID: 4800000, guid: 978409d858ad2c44cbc4f2a23f39769c, type: 3}
   m_ShaderKeywords: _ALPHABLEND_ON _ISVERTEXCOLOR_OFF
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
