@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: tw
-  m_Shader: {fileID: 4800000, guid: cff569e569948fb4e9cc29d7ba49801b, type: 3}
+  m_Shader: {fileID: 4800000, guid: 09e47d05f918cad46bf07a35d8ce1736, type: 3}
   m_ShaderKeywords: ADDTIVEFOG _ALPHABLEND_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
